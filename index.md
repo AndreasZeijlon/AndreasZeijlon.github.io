@@ -51,9 +51,11 @@ This game was made during LiU Fall Game Jam 2021 which is an event where you cre
 
 Source code [here]().
 
+#### Screenshots
+
 ---
 
-### [Tower Defence]()
+### [Dawn of the polar bears]()
 
 This is a tower defence game made in Java. Can you protect the penguins homeland from the invasion of ferocious polar bears?
 
@@ -66,10 +68,10 @@ Source code [here]().
 ## Misc
 - [Competetive programming in Kattis](https://open.kattis.com/)
 
-    I have been solving some Competetive programming problems in Kattis using mostly C++. Source code [here]().
+    I have been solving some Competetive programming problems in [Kattis](https://open.kattis.com/) using mostly C++. Source code [here](https://github.com/AndreasZeijlon/KattisProblems).
 
-- [HTTP Web Proxy](/scripts/proxy.py)
+- [HTTP Web Proxy](https://github.com/AndreasZeijlon/HTTP-Proxy)
 
-    A small custom web proxy that you can use to prohibit the user from entering HTTP websites containing bad words. Source code [here]().
+    A fun little custom web proxy that you can use to prohibit the user from entering HTTP websites containing bad words. Source code [here](https://github.com/AndreasZeijlon/HTTP-Proxy).
 
 ---
