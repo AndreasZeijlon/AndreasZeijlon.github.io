@@ -1,5 +1,5 @@
 # Portfolio
-These are some of the various projects that I've been working on.
+Here you can see some of my projects during my years as a student. 
 
 ## Web development
 
@@ -26,14 +26,6 @@ Source code [here](https://github.com/AndreasZeijlon/Twidder).
 
 ## Game development
 
-### [Zombie - (Work In Progress)](https://github.com/AndreasZeijlon/Zombie)
-
-The game I'm working on right now. It's going to be a 2D platformer zombie shooter with survival and crafting elements. Terrain is procedurally generated using perlin noise and the sprites are fully destructible.
-
-Source code [here](https://github.com/AndreasZeijlon/Zombie).
-
----
-
 ### [Racing Evolved](https://github.com/AndreasZeijlon/RacingEvolved)
 
 This is a 3D racing game developed in Unity with controller support and splitscreen mode available. Challenge a friend! PS. Only one person has ever gotten three stars on the last map.
@@ -41,13 +33,13 @@ This is a 3D racing game developed in Unity with controller support and splitscr
 <img src="images/racingevolvedsplitscreen.png?raw=true"/>
 
 
-Source code [here](https://github.com/AndreasZeijlon/RacingEvolved).
+Game and source code [here](https://github.com/AndreasZeijlon/RacingEvolved).
 
 ---
 
 ### [Keep Exploding](https://andreaszeijlon.itch.io/keep-exploding-v2)
 
-This game was made during LiU Fall Game Jam 2021 which is an event where you create a game in 48 hours. In this asymmetrical coop game you play as two terrorists trying to make a bomb in a garage. One of you is the bomb expert with access to the bomb manual with instructions on how to build the most powerful bomb, but you can't look at the screen. The other one sits at the screen and has to construct the bomb with instructions from the bomb expert. WARNING: Probably lots of bugs, ERRR I mean undocumented features ;).
+This game was made in Unity during LiU Fall Game Jam 2021 which is an event where you create a game in 48 hours. In this asymmetrical coop game you play as two terrorists trying to make a bomb in a garage. One of you is the bomb expert with access to the bomb manual with instructions on how to build the most powerful bomb, but you can't look at the screen. The other one sits at the screen and has to construct the bomb with instructions from the bomb expert. WARNING: Probably lots of bugs, ERRR I mean undocumented features ;).
 
 <img src="images/keepexploding.png?raw=true"/>
 
