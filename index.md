@@ -5,11 +5,9 @@ These are some of the various projects that I've been working on.
 
 ### [Trainiary - Your digital training diary](https://trainiary.herokuapp.com) 
 
-This is a web-based training diary where you can add workouts to a calender and see statistics over your training. Developed in Angular (Frontend) and Django (Backend) utilizing the Django REST framework. The website uses JWT token pairs for authentication and authorization.
+This is a [web-based](https://trainiary.herokuapp.com) training diary where you can add workouts to a calender and see statistics over your training. Developed in Angular (Frontend) and Django (Backend) utilizing the Django REST framework and PostgreSQL as database. The website uses JWT token pairs for authentication and authorization.
 
 Source code [here](https://github.com/AndreasZeijlon/Trainiary).
-
-#### Screenshots
 
 <img src="images/trainiary-calendar.png?raw=true"/>
 <img src="images/trainiary-statistics.png?raw=true"/>
@@ -18,14 +16,13 @@ Source code [here](https://github.com/AndreasZeijlon/Trainiary).
 
 ### [Twidder](https://github.com/AndreasZeijlon/Twidder)
 
-This is a bad copy of Twitter. It's Twidder! You can write messages on a wall that your friends can see. Written using only JavaScript, CSS and HTML5.
+It's not Twitter. It's Twidder! You can write messages on your wall or a friend's wall that your friends can see. Written using JavaScript, CSS and HTML5 on frontend and Python Flask on backend with SQLite as database.
 
 Source code [here](https://github.com/AndreasZeijlon/Twidder).
 
-#### Screenshots
 <img src="images/twidder.png?raw=true"/>
 
-<hr style="border:2px solid gray"> </hr>
+<hr style="border:2px solid gray">
 
 ## Game development
 
@@ -39,7 +36,7 @@ Source code [here]().
 
 ### [Racing Evolved](http://example.com/)
 
-This is a 3D racing game with controller support and splitscreen mode available. Challenge a friend! PS. Only one person that I know of has gotten three stars on the last map. 
+This is a 3D racing game developed in Unity with controller support and splitscreen mode available. Challenge a friend! PS. Only one person has ever gotten three stars on the last map.
 
 Source code [here]().
 
@@ -51,8 +48,6 @@ This game was made during LiU Fall Game Jam 2021 which is an event where you cre
 
 Source code [here]().
 
-#### Screenshots
-
 ---
 
 ### [Dawn of the polar bears]()
@@ -61,9 +56,7 @@ This is a tower defence game made in Java. Can you protect the penguins homeland
 
 Source code [here]().
 
-#### Screenshots
-
-<hr style="border:2px solid gray"> </hr>
+<hr style="border:2px solid gray">
 
 ## Misc
 - [Competetive programming in Kattis](https://open.kattis.com/)
