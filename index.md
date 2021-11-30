@@ -18,7 +18,7 @@ Source code [here](https://github.com/AndreasZeijlon/Trainiary).
 
 ### [Twidder](https://github.com/AndreasZeijlon/Twidder)
 
-This is a bad copy of Twitter. It's Twidder! You can write messages on a wall that your friends can see. Written using only JavaScript, CSS and HTML5.
+This is a bad copy of Twitter. It's Twidder! You can write messages on your wall and on your friends wall. Written using only JavaScript, CSS, HTML5 for frontend and python flask for backend.
 
 Source code [here](https://github.com/AndreasZeijlon/Twidder).
 
@@ -45,21 +45,23 @@ Source code [here]().
 
 ---
 
-### [Keep Exploding](http://example.com/)
+### [Keep Exploding](https://andreaszeijlon.itch.io/keep-exploding-v2)
 
-This game was made during LiU Fall Game Jam 2021 which is an event where you create a game in 48 hours. In this asymmetrical coop game you play as two terrorists trying to make a bomb in a garage. One of you is the bomb expert with access to the bomb manual with instructions on how to build the most powerful bomb, but you can't look at the screen. The other one sits at the screen and has to construct the bomb with instructions from the bomb expert. WARNING: Probably lots of bugs :)
+This game was made during LiU Fall Game Jam 2021 which is an event where you create a game in 48 hours. In this asymmetrical coop game you play as two terrorists trying to make a bomb in a garage. One of you is the bomb expert with access to the bomb manual with instructions on how to build the most powerful bomb, but you can't look at the screen. The other one sits at the screen and has to construct the bomb with instructions from the bomb expert. WARNING: Probably lots of bugs, ERRR I mean undocumented features ;).
 
-Source code [here]().
+Game [here](https://andreaszeijlon.itch.io/keep-exploding-v2).
+Source code [here](https://github.com/AndreasZeijlon/KeepExploding).
 
 #### Screenshots
 
+<img src="images/keepexploding.png?raw=true"/>
 ---
 
-### [Dawn of the polar bears]()
+### [Dawn of the polar bears](https://github.com/AndreasZeijlon/DawnOfThePolarBears)
 
 This is a tower defence game made in Java. Can you protect the penguins homeland from the invasion of ferocious polar bears?
 
-Source code [here]().
+Source code [here](https://github.com/AndreasZeijlon/DawnOfThePolarBears).
 
 #### Screenshots
 
